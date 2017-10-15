@@ -1,0 +1,94 @@
+-----Breast-----
+Gene : ENSG00000237467
+Male :  4
+Female :  0
+Age :  50.0
+
+Gene : ENSG00000238191
+Male :  0
+Female :  0
+Age :  0.0
+
+Gene : ENSG00000199885
+Male :  1
+Female :  0
+Age :  60.0
+
+
+-----HeadAndNeck-----
+Gene : ENSG00000265169
+Male :  3
+Female :  2
+Age :  54.0
+
+Gene : ENSG00000224681
+Male :  287
+Female :  123
+Age :  48.3902439024
+
+
+-----Kidney-----
+Gene : ENSG00000222945
+Male :  1
+Female :  0
+Age :  50.0
+
+Gene : ENSG00000238200
+Male :  0
+Female :  0
+Age :  0.0
+
+Gene : ENSG00000239320
+Male :  3
+Female :  3
+Age :  48.3333333333
+
+
+-----Brain-----
+Gene : ENSG00000226116
+Male :  7
+Female :  1
+Age :  45.0
+
+Gene : ENSG00000232976
+Male :  1
+Female :  0
+Age :  50.0
+
+
+-----Lung-----
+Gene : ENSG00000264261
+Male :  2
+Female :  0
+Age :  45.0
+
+Gene : ENSG00000222312
+Male :  5
+Female :  3
+Age :  38.75
+
+
+-----Prostate-----
+Gene : ENSG00000232408
+Male :  255
+Female :  82
+Age :  48.1008902077
+
+
+-----Thyroid-----
+Gene : ENSG00000221318
+Male :  29
+Female :  10
+Age :  47.9487179487
+
+
+-----Uterus-----
+Gene : ENSG00000266454
+Male :  0
+Female :  0
+Age :  0.0
+
+Gene : ENSG00000205946
+Male :  158
+Female :  89
+Age :  48.2186234818
